@@ -19,7 +19,7 @@ What is the minimum set of features you'd pick to get the most out of the langua
 
 ### Participation and group configuration
 
-Participants are divided into small groups to discuss their thoughts and produce a version 
+Participants are divided into small groups to discuss and produce a small list of Kotlin features.
 
 ### Space and materials
 
